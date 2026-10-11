@@ -1,0 +1,7 @@
+keys: [] # Quote each API key; only its last four characters reach the UI.
+proxy: ""
+target: ""
+captcha_key: ""
+rates:
+  captcha_solve: 0.002 # USD per solve; adjust to your provider.
+  proxy_gb: 5.0 # USD per GB; adjust to your provider.
